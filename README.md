@@ -1,6 +1,5 @@
 # projector.nvim
 Configurations manager for neovim
-Stores configurations that can be loaded.
 
 ## Installation
 ### packer.nvim:
